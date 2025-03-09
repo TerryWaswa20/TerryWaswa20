@@ -1,4 +1,4 @@
-<h1 align="center"><b>🧑‍💻 TERRY ||</h1> <h2>Software Developer | Web Application Developer | Frontend Specialist</b></h2>
+<h1 align="center"><b>🧑‍💻 TERRY WASWA</h1> <h2>Software Developer | Web Application Developer | Frontend Specialist</b></h2>
   <p align="center">Hi there👋 i'm am Terry Waswa a software developer anticipating to bridge the gap between real world ideas and the digital space😊, i assure of quality and user friendly services, lets code...</p>
 
 <h2 align="center"> 🎓 EDUCATION BACKGROUND </h2>
