@@ -1,9 +1,13 @@
-<h1 align="center"><<b>🎓 TERRY || CUSTOM SOFTWARE DEVELOPER | WEB APPLICATION DEVELOPER | FRONTEND SPECIALIST</b></h1>
-<h3 align="center">A passionate web developer from Kenya open to collaboration</h3>
+<h1 align="center"><b>🧑‍💻 TERRY ||</h2> <h2>Custom Software Developer | Web Application Developer | Frontend Specialist</b></h2>
+  <p align="center">Hi there👋 i'm am Terry Waswa a software developer anticipating to bridge the gap between real world ideas and the digital space😊, i assure of quality and user friendly services, lets code...</p>
 
-- 🔭 I’m currently working on [FarmConnect](https://github.com/TerryWaswa20/FarmConnect)
+<h2 align="center"> 🎓 EDUCATION BACKGROUND </h2>
+<h3 align="center">🖥️ Currently advancing my skills with KIEP SKIES Team😊...</h3>
+<h3>🎓 Bsc Computer Science LU </h3>
+<h3> Web Development Short Course Emobilis Technology Institute </h3>
+<p> From my education journey so far, i can deliver the best frontend with the best UI/UX design🤝</p>
 
-- 🌱 I’m currently learning **React and python at KIEP SKIES**
+
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/TerryWaswa20](https://github.com/TerryWaswa20)
 
@@ -13,9 +17,10 @@
 
 - 📫 How to reach me **terrywaswa20@gmail.com. 0714550236**
 
-- ⚡ Fun fact **It either meets the clients expectations or it's noise...😅**
+<h2>FUN FACT</h2>
+-  **It either meets the clients expectations or it's noise...😅**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">MORE INFORMATION:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/terry waswa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terry waswa" height="30" width="40" /></a>
 <a href="https://fb.com/terry waswa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="terry waswa" height="30" width="40" /></a>
