@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Terry Waswa</h1>
+<h1 align="center"><<b>🎓 TERRY || CUSTOM SOFTWARE DEVELOPER | WEB APPLICATION DEVELOPER | FRONTEND SPECIALIST</b></h1>
 <h3 align="center">A passionate web developer from Kenya open to collaboration</h3>
 
 - 🔭 I’m currently working on [FarmConnect](https://github.com/TerryWaswa20/FarmConnect)
