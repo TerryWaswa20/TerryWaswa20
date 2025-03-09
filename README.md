@@ -1,11 +1,9 @@
-<h1 align="center"><b>🧑‍💻 TERRY ||</h2> <h2>Custom Software Developer | Web Application Developer | Frontend Specialist</b></h2>
+<h1 align="center"><b>🧑‍💻 TERRY ||</h1> <h2>Software Developer | Web Application Developer | Frontend Specialist</b></h2>
   <p align="center">Hi there👋 i'm am Terry Waswa a software developer anticipating to bridge the gap between real world ideas and the digital space😊, i assure of quality and user friendly services, lets code...</p>
 
 <h2 align="center"> 🎓 EDUCATION BACKGROUND </h2>
-<h3 align="center">🖥️ ~ Currently advancing my skills with KIEP SKIES Team😊...</h3>
-<h3>🎓 ~ Bsc Computer Science LU </h3>
-<h3> ✅ ~ Web Development Short Course Emobilis Technology Institute </h3>
-<h6> From my education journey so far, i can deliver the best frontend with the best UI/UX design🤝</h6>
+<h3 align="center">🖥️ ~ Currently advancing my skills with KIEP SKIES Team😊...<br>🎓 ~ Bsc Computer Science LU <br> ✅ ~ Web Development Short Course Emobilis Technology Institute </h3>
+<h6> From my education journey so far, i can deliver the best frontend with the best UI/UX design <br>🤝</h6>
 
 <h2> 💻 MORE INFORMATION </h2>
 <h4>All of my projects are available at Github [https://github.com/TerryWaswa20](https://github.com/TerryWaswa20)</h4>
