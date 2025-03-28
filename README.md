@@ -1,5 +1,5 @@
 <h1 align="center"><b>🧑‍💻 TERRY WASWA</h1> <h2>Software Developer | Web Application Developer | Frontend Specialist</b></h2>
-  <p align="center">Hi there👋 i'm am Terry Waswa a software developer anticipating to bridge the gap between real world ideas and the digital space😊, i assure of quality and user friendly services, lets code...</p>
+  <p align="center">Hi there👋 i'm Terry Waswa a software developer anticipating to bridge the gap between real world ideas and the digital space😊, i assure of quality and user friendly services, lets code...</p>
 
 <h2 align="center"> 🎓 EDUCATION BACKGROUND </h2>
 <h3 align="center">🖥️ ~ Currently advancing my skills with KIEP SKIES Team😊...<br>🎓 ~ Bsc Computer Science LU <br> ✅ ~ Web Development Short Course Emobilis Technology Institute </h3>
